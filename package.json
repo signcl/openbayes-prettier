@@ -1,0 +1,14 @@
+{
+  "name": "openbayes-prettier",
+  "version": "0.0.0",
+  "description": "OpenBayes prettier configuration",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "openbayes",
+    "prettier"
+  ],
+  "author": "lesenelir <hi@lesenelir.me>",
+  "license": "MIT"
+}

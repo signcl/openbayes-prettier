@@ -1,6 +1,6 @@
 {
   "name": "@openbayes/prettier",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "OpenBayes prettier configuration",
   "main": "index.js",
   "module": "index.mjs",

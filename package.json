@@ -1,5 +1,5 @@
 {
-  "name": "openbayes-prettier",
+  "name": "@openbayes/prettier",
   "version": "0.0.0",
   "description": "OpenBayes prettier configuration",
   "main": "index.js",

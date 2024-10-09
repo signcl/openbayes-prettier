@@ -4,8 +4,9 @@ module.exports = {
   tabWidth: 2,
   semi: false,
   singleQuote: true,
+  quoteProps: 'consistent',
   trailingComma: 'none',
-  arrowParens: 'always',
+  arrowParens: 'avoid',
   endOfLine: 'lf',
   plugins: [
     '@ianvs/prettier-plugin-sort-imports',
